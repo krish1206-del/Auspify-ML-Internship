@@ -1,0 +1,27 @@
+{
+  "rows_used": 8790,
+  "features_used": [
+    "release_year",
+    "date_added_year",
+    "date_added_month",
+    "rating",
+    "director",
+    "country",
+    "listed_in"
+  ],
+  "target": "type",
+  "train_rows": 7032,
+  "test_rows": 1758,
+  "best_model": "Logistic Regression",
+  "metrics": {
+    "Accuracy": 0.9994311717861206,
+    "Precision (macro)": 0.9995921696574226,
+    "Recall (macro)": 0.99906191369606,
+    "F1 (macro)": 0.9993265180639118
+  },
+  "accuracy_without_listed_in_genres": 0.9482366325369739,
+  "class_distribution": {
+    "Movie": 6126,
+    "TV Show": 2664
+  }
+}

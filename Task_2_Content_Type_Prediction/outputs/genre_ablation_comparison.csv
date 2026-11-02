@@ -1,0 +1,3 @@
+Feature set,Accuracy,Macro F1
+All selected metadata,0.9994311717861206,0.9993265180639118
+Without listed_in genres,0.9482366325369739,0.9383167170418489
