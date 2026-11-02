@@ -1,0 +1,31 @@
+query_title,rank,title,type,release_year,listed_in,director,country,similarity_score
+Stranger Things,1,Nightflyers,TV Show,2018,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",,United States,0.9671
+Stranger Things,2,Helix,TV Show,2015,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",,United States,0.9671
+Stranger Things,3,Chilling Adventures of Sabrina,TV Show,2020,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",,United States,0.9533
+Stranger Things,4,Manifest,TV Show,2021,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",,United States,0.7537
+Stranger Things,5,The OA,TV Show,2019,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",,United States,0.7518
+Stranger Things,6,Anjaan: Special Crimes Unit,TV Show,2018,"International TV Shows, TV Horror, TV Mysteries",,India,0.7462
+Stranger Things,7,Scream,TV Show,2019,"Crime TV Shows, TV Horror, TV Mysteries",,United States,0.7432
+Stranger Things,8,The Messengers,TV Show,2015,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",,United States,0.7382
+Stranger Things,9,Typewriter,TV Show,2019,"International TV Shows, TV Horror, TV Mysteries",,India,0.7336
+Stranger Things,10,The Guest,TV Show,2018,"International TV Shows, TV Horror, TV Mysteries",,South Korea,0.7333
+The Conjuring,1,Insidious,Movie,2010,"Horror Movies, Thrillers",James Wan,United States,0.9654
+The Conjuring,2,The Conjuring 2,Movie,2016,Horror Movies,James Wan,Canada,0.8657
+The Conjuring,3,Kanika,Movie,2017,"Horror Movies, International Movies, Thrillers",,India,0.5628
+The Conjuring,4,Green Room,Movie,2015,"Horror Movies, Thrillers",Jeremy Saulnier,United States,0.4398
+The Conjuring,5,Knock Knock,Movie,2015,"Horror Movies, Thrillers",Eli Roth,United States,0.4334
+The Conjuring,6,Hush,Movie,2016,"Horror Movies, Thrillers",Mike Flanagan,United States,0.4273
+The Conjuring,7,13 Sins,Movie,2014,"Horror Movies, Thrillers",Daniel Stamm,United States,0.4254
+The Conjuring,8,"As Above, So Below",Movie,2014,"Horror Movies, Thrillers",John Erick Dowdle,United States,0.4254
+The Conjuring,9,Final Destination 2,Movie,2003,"Horror Movies, Thrillers",David R. Ellis,United States,0.4231
+The Conjuring,10,The Charnel House,Movie,2016,"Horror Movies, Thrillers",Craig Moss,United States,0.4144
+Extraction,1,First Kill,Movie,2017,Action & Adventure,Steven C. Miller,United Kingdom,0.9533
+Extraction,2,Marauders,Movie,2016,Action & Adventure,Steven C. Miller,Canada,0.9426
+Extraction,3,Polar,Movie,2019,"Action & Adventure, International Movies",,United States,0.3706
+Extraction,4,Close,Movie,2019,"Action & Adventure, International Movies",,United Kingdom,0.3294
+Extraction,5,Shadow and Bone - The Afterparty,Movie,2021,"Action & Adventure, Comedies, Dramas",,United States,0.3272
+Extraction,6,The Darkest Dawn,Movie,2016,"Action & Adventure, Independent Movies, International Movies",,United Kingdom,0.2946
+Extraction,7,The Great Battle,Movie,2018,"Action & Adventure, Dramas, International Movies",,South Korea,0.2806
+Extraction,8,Abdo Mota,Movie,2012,"Action & Adventure, Dramas, International Movies",,Egypt,0.2799
+Extraction,9,Set Up,Movie,2011,Action & Adventure,Mike Gunther,United States,0.2698
+Extraction,10,Batman: The Killing Joke,Movie,2016,Action & Adventure,Sam Liu,United States,0.2698

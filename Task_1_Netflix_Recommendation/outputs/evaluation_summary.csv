@@ -1,0 +1,6 @@
+metric,value,interpretation
+Queries evaluated,100.0,Number of catalog titles sampled
+Mean top-10 cosine similarity,0.5683607311421567,Average TF-IDF similarity of recommendations
+Mean top-10 genre Jaccard overlap,0.8175333333333333,Average genre overlap; 1.0 means identical genre sets
+Same content type share in top-10,0.998,Fraction of recommendations matching Movie/TV Show type
+Same director share when director is known,0.3690339354132457,Fraction sharing at least one listed director; excludes unknown directors

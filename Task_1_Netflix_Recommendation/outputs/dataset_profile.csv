@@ -1,0 +1,6 @@
+Item,Value
+Rows in source dataset,8790
+Unique titles after duplicate-title removal,8786
+Duplicate title records removed,4
+Columns in source dataset,10
+TF-IDF vocabulary size,5146
