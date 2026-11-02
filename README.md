@@ -11,8 +11,8 @@ This repository contains my practical Machine Learning internship task submissio
 | Task | Project | Status |
 |---|---|---|
 | Task 1 | Netflix Content Recommendation System | Completed |
-| Task 2 | Content Type Prediction Model | Not uploaded yet |
-| Task 3 | Netflix Audience Rating Classification | Not uploaded yet |
+| Task 2 | Content Type Prediction Model | Completed |
+| Task 3 | Netflix Audience Rating Classification | Completed |
 | Task 4 | Netflix Content Segmentation | Not uploaded yet |
 
 Only Task 1 is included at this stage. The remaining task folders will be added after those projects are completed.
