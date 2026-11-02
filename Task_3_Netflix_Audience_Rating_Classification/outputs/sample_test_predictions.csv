@@ -1,0 +1,21 @@
+,type,duration,release_year,Actual rating,Predicted rating,Correct
+6821,TV Show,2 Seasons,2015,TV-Y,TV-Y7,False
+2939,Movie,115 min,2016,TV-14,TV-14,True
+7339,TV Show,1 Season,2020,TV-MA,TV-MA,True
+7794,TV Show,1 Season,2018,TV-MA,TV-MA,True
+6809,TV Show,1 Season,2015,TV-PG,TV-14,False
+5695,TV Show,1 Season,2017,TV-Y,TV-Y7,False
+8222,TV Show,1 Season,2016,TV-14,TV-PG,False
+900,Movie,97 min,2016,PG-13,R,False
+6336,Movie,92 min,2015,R,R,True
+263,Movie,68 min,2020,TV-Y7,TV-Y,False
+3901,Movie,89 min,2016,TV-MA,R,False
+1307,Movie,90 min,2021,TV-MA,TV-MA,True
+3125,Movie,90 min,2018,TV-MA,TV-MA,True
+6559,TV Show,1 Season,2012,TV-PG,TV-G,False
+3959,Movie,107 min,2016,TV-14,TV-G,False
+2915,Movie,59 min,2019,TV-MA,TV-MA,True
+5969,Movie,94 min,2015,TV-MA,NR,False
+2068,Movie,90 min,2016,TV-14,TV-14,True
+6276,Movie,107 min,2014,R,NR,False
+2339,Movie,106 min,2019,PG,PG,True

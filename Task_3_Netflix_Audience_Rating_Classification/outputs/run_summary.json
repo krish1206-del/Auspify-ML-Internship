@@ -1,0 +1,28 @@
+{
+  "Selected model": "Tuned Logistic Regression",
+  "Accuracy": 0.474971558589306,
+  "Balanced accuracy": 0.43367594905523693,
+  "Macro F1": 0.38467264379190486,
+  "Weighted F1": 0.48985932869234294,
+  "dataset_rows": 8790,
+  "train_rows": 7032,
+  "test_rows": 1758,
+  "original_rating_categories": 14,
+  "modelled_rating_categories": 11,
+  "rare_labels_grouped": [
+    "G",
+    "TV-Y7-FV",
+    "NC-17",
+    "UR"
+  ],
+  "rare_label_threshold": 50,
+  "logistic_cv_macro_f1": 0.39141375132196,
+  "tree_cv_macro_f1": 0.34244996316685966,
+  "feature_columns": [
+    "metadata_text",
+    "type",
+    "duration",
+    "release_year"
+  ],
+  "random_state": 42
+}
